@@ -1,4 +1,8 @@
-<h3 align="center" style="font-family: 'Courier New', Courier, monospace; color: #00ff00;">A Passionate Frontend Developer from India</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?center=true&vCenter=true&lines=Hi!+I+Am+Chaitanya+Mate;Always+learning+new+things" alt="Typing SVG">
+  </a>
+</p>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=chaitanya7x&label=Profile%20views&color=green&style=flat" alt="chaitanya7x" /> 
